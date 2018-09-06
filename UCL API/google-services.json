@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "375194787761",
+    "firebase_url": "https://trash-project-e81bf.firebaseio.com",
+    "project_id": "trash-project-e81bf",
+    "storage_bucket": "trash-project-e81bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375194787761:android:25587d923fc859af",
+        "android_client_info": {
+          "package_name": "com.example.android.uclapi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "375194787761-v0718731bcpnlqak3o3eemvmt93vn0nr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkMf92G7UjOpvrpIHDDpvmc4B9QiUOeV4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

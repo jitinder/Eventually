@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#03A9F4</color>
+    <color name="colorPrimaryDark">#0277BD</color>
+    <color name="colorAccent">#FFA726</color>
+    <color name="free">#8BC34A</color>
+    <color name="notfree">#E53935</color>
+
+    <color name="societies">#FFB74D</color>
+    <color name="nightlife">#9FA8DA</color>
+    <color name="under18">#F48FB1</color>
+    <color name="overnight">#bbdefb</color>
+    <color name="freshers">#ffca28</color>
+    <color name="pg">#ce93d8</color>
+    <color name="workshop">#e0e0e0</color>
+</resources>
